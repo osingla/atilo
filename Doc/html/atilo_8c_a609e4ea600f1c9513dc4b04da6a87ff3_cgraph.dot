@@ -1,0 +1,20 @@
+digraph "main_wnd_expose"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="main_wnd_expose",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="compute_size_elements\l_board",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$layout_8c.html#a4b62b5ef17e03c34936a6b8149a28e49",tooltip="TBD. "];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="find_max_font",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$config_8c.html#adb9b9fe162d52f28aca8c66146a809a4",tooltip="TBD. "];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="draw_board",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$layout_8c.html#a5c409dd71662e3df411514910bf0e180",tooltip="TBD. "];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="redraw_board",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$layout_8c.html#a6fbe970f2fddbc239e9ce420ba56eca5",tooltip="TBD. "];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="draw_pawn",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$layout_8c.html#aa16982074176adf4f29d91c2e75c6a0c",tooltip="TBD. "];
+  Node5 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="expose_init",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$layout_8c.html#ab1f8dd6e2801474e50deee1c24352f3a",tooltip="TBD. "];
+}

@@ -1,0 +1,14 @@
+var searchData=
+[
+  ['change_5fside',['change_side',['../play_8c.html#a757ee62eb84c6fa1c94ae70fff642908',1,'change_side(void):&#160;play.c'],['../play_8h.html#a757ee62eb84c6fa1c94ae70fff642908',1,'change_side(void):&#160;play.c']]],
+  ['clear_5fhist_5flist',['clear_hist_list',['../atilo_8c.html#a27615890623c6f9ef5fc3fdabfbd487a',1,'clear_hist_list(void):&#160;atilo.c'],['../atilo_8h.html#a27615890623c6f9ef5fc3fdabfbd487a',1,'clear_hist_list(void):&#160;atilo.c']]],
+  ['compute_5fnb_5fpawns',['compute_nb_pawns',['../play_8c.html#a3b624499792f8e8baba13ebc43777a0b',1,'compute_nb_pawns(const int show):&#160;play.c'],['../play_8h.html#a3b624499792f8e8baba13ebc43777a0b',1,'compute_nb_pawns(const int show):&#160;play.c']]],
+  ['compute_5fsize_5felements_5fboard',['compute_size_elements_board',['../layout_8c.html#a4b62b5ef17e03c34936a6b8149a28e49',1,'compute_size_elements_board(void):&#160;layout.c'],['../layout_8h.html#a4b62b5ef17e03c34936a6b8149a28e49',1,'compute_size_elements_board(void):&#160;layout.c']]],
+  ['computer_5finfos_5fmsg',['computer_infos_msg',['../layout_8c.html#a7784c84bb739265db053ac4ddc5bbc12',1,'computer_infos_msg(const char *fmt,...):&#160;layout.c'],['../layout_8h.html#a7784c84bb739265db053ac4ddc5bbc12',1,'computer_infos_msg(const char *fmt,...):&#160;layout.c']]],
+  ['computer_5fplay',['computer_play',['../play_8c.html#a532ee1d69e4607ff37f5bba170367090',1,'computer_play(WHERE_TO_PLAY *where_to_play, const unsigned char the_player, const unsigned char the_enemy, const int f_suggest):&#160;play.c'],['../play_8h.html#a532ee1d69e4607ff37f5bba170367090',1,'computer_play(WHERE_TO_PLAY *where_to_play, const unsigned char the_player, const unsigned char the_enemy, const int f_suggest):&#160;play.c']]],
+  ['computer_5fturn',['computer_turn',['../play_8c.html#a17abcf9afd0b549b7b3096b54c434215',1,'computer_turn(void):&#160;play.c'],['../play_8h.html#a17abcf9afd0b549b7b3096b54c434215',1,'computer_turn(void):&#160;play.c']]],
+  ['create_5fhist_5flist',['create_hist_list',['../atilo_8c.html#aa59fee17c96af72658fd075b92b1ec09',1,'create_hist_list(void):&#160;atilo.c'],['../atilo_8h.html#aa59fee17c96af72658fd075b92b1ec09',1,'create_hist_list(void):&#160;atilo.c']]],
+  ['create_5flayout',['create_layout',['../layout_8c.html#a9a4304455cc3d031bef15c71213dc340',1,'create_layout(void):&#160;layout.c'],['../layout_8h.html#a9a4304455cc3d031bef15c71213dc340',1,'create_layout(void):&#160;layout.c']]],
+  ['create_5fmain_5fmenu',['create_main_menu',['../menu_8c.html#a471cbcec6dc5a836f99b73a197689dc4',1,'create_main_menu(GtkWidget *vbox):&#160;menu.c'],['../menu_8h.html#a471cbcec6dc5a836f99b73a197689dc4',1,'create_main_menu(GtkWidget *vbox):&#160;menu.c']]],
+  ['create_5fstatus',['create_status',['../status_8c.html#a0ead08cde72de12085c3ea1beee75f58',1,'create_status(void):&#160;status.c'],['../status_8h.html#a0ead08cde72de12085c3ea1beee75f58',1,'create_status(void):&#160;status.c']]]
+];

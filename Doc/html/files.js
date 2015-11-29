@@ -1,0 +1,27 @@
+var files =
+[
+    [ "all.h", "all_8h.html", "all_8h" ],
+    [ "atilo.c", "atilo_8c.html", "atilo_8c" ],
+    [ "atilo.h", "atilo_8h.html", "atilo_8h" ],
+    [ "config.c", "config_8c.html", "config_8c" ],
+    [ "config.h", "config_8h.html", "config_8h" ],
+    [ "endgame.c", "endgame_8c.html", "endgame_8c" ],
+    [ "endgame.h", "endgame_8h.html", "endgame_8h" ],
+    [ "game.c", "game_8c.html", "game_8c" ],
+    [ "game.h", "game_8h.html", "game_8h" ],
+    [ "layout.c", "layout_8c.html", "layout_8c" ],
+    [ "layout.h", "layout_8h.html", "layout_8h" ],
+    [ "loadsave.c", "loadsave_8c.html", "loadsave_8c" ],
+    [ "loadsave.h", "loadsave_8h.html", "loadsave_8h" ],
+    [ "menu.c", "menu_8c.html", "menu_8c" ],
+    [ "menu.h", "menu_8h.html", "menu_8h" ],
+    [ "play.c", "play_8c.html", "play_8c" ],
+    [ "play.h", "play_8h.html", "play_8h" ],
+    [ "ponder.c", "ponder_8c.html", "ponder_8c" ],
+    [ "settings.c", "settings_8c.html", "settings_8c" ],
+    [ "settings.h", "settings_8h.html", "settings_8h" ],
+    [ "status.c", "status_8c.html", "status_8c" ],
+    [ "status.h", "status_8h.html", "status_8h" ],
+    [ "util.c", "util_8c.html", "util_8c" ],
+    [ "util.h", "util_8h.html", "util_8h" ]
+];
