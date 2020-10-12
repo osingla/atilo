@@ -1,0 +1,5 @@
+*.o
+*.d
+Release/atilo
+Release/atilo_1.0_amd64.deb
+

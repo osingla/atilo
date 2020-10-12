@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Atilo
+Comment=Play Reversi board game
+Exec=/usr/games/atilo
+Icon=atilo
+Terminal=false
+Type=Application
+Categories=GTK;Game;
+Keywords=reversi;
+StartupNotify=true

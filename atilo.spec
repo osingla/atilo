@@ -5,7 +5,7 @@ Release: 2
 %define src %{name}
 License: BSD
 Group: Amusements/Games
-URL:		http://atilo.sourceforge.net/
+URL:		https://github.com/osingla/atilo
 Prefix: %{_prefix}
 Buildroot: %{_tmppath}/%{name}
 #BuildRequires:	pkgconfig

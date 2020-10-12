@@ -103,7 +103,7 @@ void on_Rules_of_Reversi_activate( GtkWidget * w, gpointer data ) {
     GtkWidget *dlg;
 
     dlg = gtk_message_dialog_new( GTK_WINDOW( main_wnd ),
-       GTK_DIALOG_DESTROY_WITH_PARENT, GTK_MESSAGE_INFO, GTK_BUTTONS_OK, "Please take a look at\n" "http://singla.us/atilo/" );
+       GTK_DIALOG_DESTROY_WITH_PARENT, GTK_MESSAGE_INFO, GTK_BUTTONS_OK, "Please take a look at\n" "https://rawgit.com/osingla/atilo/gh-pages/index.html" );
     gtk_dialog_run( GTK_DIALOG( dlg ) );
     gtk_widget_destroy( dlg );
 }                               // on_Rules_of_Reversi_activate
@@ -122,8 +122,8 @@ void on_About_atilo_activate( GtkWidget * w, gpointer data ) {
        GTK_MESSAGE_INFO,
        GTK_BUTTONS_OK,
        "Atilo v%d.%d.%d\n"
-       "http://singla.us/atilo/\n\n"
-       "Olivier Singla, Raleigh, NC, USA\n" "olivier@singla.us", VERSION >> 16, ( VERSION >> 8 ) & 0xFF, VERSION & 0xFF );
+       "https://rawgit.com/osingla/atilo/gh-pages/index.html\n\n"
+       "Olivier Singla, Raleigh, NC, USA\n" "olivier.singla@gmail.com", VERSION >> 16, ( VERSION >> 8 ) & 0xFF, VERSION & 0xFF );
     gtk_dialog_run( GTK_DIALOG( dlg ) );
     gtk_widget_destroy( dlg );
 }                               // on_About_atilo_activate
